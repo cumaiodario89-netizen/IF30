@@ -1,0 +1,4 @@
+MÉTODO FI30 - como editar no VS Code
+1. Abre a pasta no VS Code.  2. Instala a extensão "Live Server" e clica em "Go Live".
+3. Número, data, preço e vagas: js/config.js
+4. Cores e estilo: css/style.css  |  Textos: index.html  |  Fotos: pasta img/
